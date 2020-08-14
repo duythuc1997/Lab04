@@ -1,0 +1,8 @@
+﻿  Lab04_Ex02.cpp
+e:\dhmt\bt_lab04\lab04_ex01\lab04_ex02\lab04_ex02.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\dhmt\bt_lab04\lab04_ex01\lab04_ex02\lab04_ex02.cpp(64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\dhmt\bt_lab04\lab04_ex01\lab04_ex02\lab04_ex02.cpp(65): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\dhmt\bt_lab04\lab04_ex01\lab04_ex02\lab04_ex02.cpp(66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\dhmt\bt_lab04\lab04_ex01\lab04_ex02\lab04_ex02.cpp(67): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Lab04_Ex02.vcxproj -> E:\DHMT\BT_Lab04\Lab04_Ex01\Debug\Lab04_Ex02.exe
+  Lab04_Ex02.vcxproj -> E:\DHMT\BT_Lab04\Lab04_Ex01\Debug\Lab04_Ex02.pdb (Full PDB)
